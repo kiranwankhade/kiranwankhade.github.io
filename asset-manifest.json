@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56df9118.css",
-    "main.js": "/static/js/main.39d5c5b9.js",
+    "main.css": "/static/css/main.2e5a9bae.css",
+    "main.js": "/static/js/main.b76a631b.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/TS3.png": "/static/media/TS3.9da7793e9f73a2edaffb.png",
     "static/media/VS1.png": "/static/media/VS1.eb9b55b0a66f4294e194.png",
@@ -20,6 +20,7 @@
     "static/media/TS6.png": "/static/media/TS6.b31693605423629a052b.png",
     "static/media/TS1.png": "/static/media/TS1.4ec9a6e5d33ce45f24a6.png",
     "static/media/TS8.png": "/static/media/TS8.ed184b2636394d0899f8.png",
+    "static/media/kiran_photo.png": "/static/media/kiran_photo.afde01068a54fcabff14.png",
     "static/media/blushme3.png": "/static/media/blushme3.8d69914a2251bcae056f.png",
     "static/media/VS3.png": "/static/media/VS3.33decbb35398290432d7.png",
     "static/media/VS11.png": "/static/media/VS11.99b86573b5750bcd173e.png",
@@ -28,11 +29,9 @@
     "static/media/VS9.png": "/static/media/VS9.3d0c16c95c96ad28de14.png",
     "static/media/TS2.png": "/static/media/TS2.4f9a318dfd03f0323734.png",
     "static/media/Kiran-Wankhade-Resume.pdf": "/static/media/Kiran-Wankhade-Resume.899eb9383992d56e4434.pdf",
-    "static/media/face_co.png": "/static/media/face_co.6fb960011c6df24b0b38.png",
     "static/media/blushme4.png": "/static/media/blushme4.7542175154ce48790a86.png",
     "static/media/R&F3.png": "/static/media/R&F3.5b71e08e4ead24577ad5.png",
     "static/media/R&F5.png": "/static/media/R&F5.1554882038b8af6f19ea.png",
-    "static/media/KiranLogo.png": "/static/media/KiranLogo.41b689d92742de8296e9.png",
     "static/media/R&F2.png": "/static/media/R&F2.d24d39a394b5161f2232.png",
     "static/media/VS13.png": "/static/media/VS13.ecda41f663d66ff92090.png",
     "static/media/R&F6.png": "/static/media/R&F6.b7c7bd6adbb29405c322.png",
@@ -43,17 +42,18 @@
     "static/media/TS9.png": "/static/media/TS9.2559925cfd02663ae9ea.png",
     "static/media/portFolioLogo.png": "/static/media/portFolioLogo.305886f09504398a6ee0.png",
     "static/media/react-240.png": "/static/media/react-240.834c9e6e22969702915a.png",
+    "static/media/newlogo1.png": "/static/media/newlogo1.9ef908ce4e841fd34c18.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.56df9118.css.map": "/static/css/main.56df9118.css.map",
-    "main.39d5c5b9.js.map": "/static/js/main.39d5c5b9.js.map",
+    "main.2e5a9bae.css.map": "/static/css/main.2e5a9bae.css.map",
+    "main.b76a631b.js.map": "/static/js/main.b76a631b.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56df9118.css",
-    "static/js/main.39d5c5b9.js"
+    "static/css/main.2e5a9bae.css",
+    "static/js/main.b76a631b.js"
   ]
 }
