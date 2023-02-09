@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.99d9d5ea.css",
-    "main.js": "/static/js/main.57c42fb7.js",
+    "main.js": "/static/js/main.185bf388.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/TS3.png": "/static/media/TS3.9da7793e9f73a2edaffb.png",
     "static/media/VS1.png": "/static/media/VS1.eb9b55b0a66f4294e194.png",
@@ -25,7 +25,6 @@
     "static/media/VS3.png": "/static/media/VS3.33decbb35398290432d7.png",
     "static/media/VS11.png": "/static/media/VS11.99b86573b5750bcd173e.png",
     "static/media/VS10.png": "/static/media/VS10.1e0fd34be4492eaa3e94.png",
-    "static/media/PortfolioHome.png": "/static/media/PortfolioHome.befef2941b76783379da.png",
     "static/media/VS9.png": "/static/media/VS9.3d0c16c95c96ad28de14.png",
     "static/media/TS2.png": "/static/media/TS2.4f9a318dfd03f0323734.png",
     "static/media/Kiran-Wankhade-Resume.pdf": "/static/media/Kiran-Wankhade-Resume.899eb9383992d56e4434.pdf",
@@ -49,11 +48,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.99d9d5ea.css.map": "/static/css/main.99d9d5ea.css.map",
-    "main.57c42fb7.js.map": "/static/js/main.57c42fb7.js.map",
+    "main.185bf388.js.map": "/static/js/main.185bf388.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99d9d5ea.css",
-    "static/js/main.57c42fb7.js"
+    "static/js/main.185bf388.js"
   ]
 }
