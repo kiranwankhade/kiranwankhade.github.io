@@ -1,11 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.996f3098.css",
-    "main.js": "/static/js/main.dfd0b2b4.js",
+    "main.js": "/static/js/main.03e333f7.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/BeChef5.png": "/static/media/BeChef5.85a861d568f184531ebd.png",
     "static/media/TS3.png": "/static/media/TS3.9da7793e9f73a2edaffb.png",
+    "static/media/BeChef6.png": "/static/media/BeChef6.409843488d91fb6681c8.png",
+    "static/media/BeChef1.png": "/static/media/BeChef1.749207a5d741753ada00.png",
+    "static/media/BeChef8.png": "/static/media/BeChef8.1cfc544e459e045462ee.png",
+    "static/media/BeChef2.png": "/static/media/BeChef2.ed06b04539955823a4f9.png",
+    "static/media/BeChef3.png": "/static/media/BeChef3.479ddba971d281187757.png",
     "static/media/VS1.png": "/static/media/VS1.eb9b55b0a66f4294e194.png",
     "static/media/blushme1.png": "/static/media/blushme1.cadd04f74162fd7c3375.png",
+    "static/media/BeChef4.png": "/static/media/BeChef4.a30a4bf697d345f5d76e.png",
+    "static/media/BeChef7.png": "/static/media/BeChef7.29f4246ea5f14d442032.png",
+    "static/media/BeChef9.png": "/static/media/BeChef9.23711df5ad4250c1f311.png",
     "static/media/TS4.png": "/static/media/TS4.21b01d6ed373e1ec2c3a.png",
     "static/media/TS7.png": "/static/media/TS7.bfdc4a24b11fbea2ada8.png",
     "static/media/VS6.png": "/static/media/VS6.a5517b7b7c13490172ba.png",
@@ -28,6 +37,7 @@
     "static/media/VS9.png": "/static/media/VS9.3d0c16c95c96ad28de14.png",
     "static/media/TS2.png": "/static/media/TS2.4f9a318dfd03f0323734.png",
     "static/media/fw21_0705-Kiran-Wankhade-Resume.pdf": "/static/media/fw21_0705-Kiran-Wankhade-Resume.899eb9383992d56e4434.pdf",
+    "static/media/BeChef10.png": "/static/media/BeChef10.f69cc558600c7cdf54c8.png",
     "static/media/blushme4.png": "/static/media/blushme4.7542175154ce48790a86.png",
     "static/media/R&F3.png": "/static/media/R&F3.5b71e08e4ead24577ad5.png",
     "static/media/R&F5.png": "/static/media/R&F5.1554882038b8af6f19ea.png",
@@ -37,6 +47,8 @@
     "static/media/VS12.png": "/static/media/VS12.7e4d3b8f68c364505f3d.png",
     "static/media/VS14.png": "/static/media/VS14.dd4cfe3eabc1a4872967.png",
     "static/media/blushme5.png": "/static/media/blushme5.e86e2130cd41ecb38e8d.png",
+    "static/media/BeChef11.png": "/static/media/BeChef11.3d500673cb683c31f380.png",
+    "static/media/VS15.png": "/static/media/VS15.2e95275b3fcfe3c3575b.png",
     "static/media/TS5.png": "/static/media/TS5.6f96ba72c31e25aaf09e.png",
     "static/media/TS9.png": "/static/media/TS9.2559925cfd02663ae9ea.png",
     "static/media/portFolioLogo.png": "/static/media/portFolioLogo.305886f09504398a6ee0.png",
@@ -48,11 +60,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.996f3098.css.map": "/static/css/main.996f3098.css.map",
-    "main.dfd0b2b4.js.map": "/static/js/main.dfd0b2b4.js.map",
+    "main.03e333f7.js.map": "/static/js/main.03e333f7.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.996f3098.css",
-    "static/js/main.dfd0b2b4.js"
+    "static/js/main.03e333f7.js"
   ]
 }
