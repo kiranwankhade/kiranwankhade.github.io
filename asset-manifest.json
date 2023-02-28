@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.587502c4.css",
-    "main.js": "/static/js/main.8f5e4440.js",
+    "main.css": "/static/css/main.64936c99.css",
+    "main.js": "/static/js/main.dfd0b2b4.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/TS3.png": "/static/media/TS3.9da7793e9f73a2edaffb.png",
     "static/media/VS1.png": "/static/media/VS1.eb9b55b0a66f4294e194.png",
@@ -27,7 +27,7 @@
     "static/media/VS10.png": "/static/media/VS10.1e0fd34be4492eaa3e94.png",
     "static/media/VS9.png": "/static/media/VS9.3d0c16c95c96ad28de14.png",
     "static/media/TS2.png": "/static/media/TS2.4f9a318dfd03f0323734.png",
-    "static/media/Kiran-Wankhade-Resume.pdf": "/static/media/Kiran-Wankhade-Resume.899eb9383992d56e4434.pdf",
+    "static/media/fw21_0705-Kiran-Wankhade-Resume.pdf": "/static/media/fw21_0705-Kiran-Wankhade-Resume.899eb9383992d56e4434.pdf",
     "static/media/blushme4.png": "/static/media/blushme4.7542175154ce48790a86.png",
     "static/media/R&F3.png": "/static/media/R&F3.5b71e08e4ead24577ad5.png",
     "static/media/R&F5.png": "/static/media/R&F5.1554882038b8af6f19ea.png",
@@ -47,12 +47,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.587502c4.css.map": "/static/css/main.587502c4.css.map",
-    "main.8f5e4440.js.map": "/static/js/main.8f5e4440.js.map",
+    "main.64936c99.css.map": "/static/css/main.64936c99.css.map",
+    "main.dfd0b2b4.js.map": "/static/js/main.dfd0b2b4.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.587502c4.css",
-    "static/js/main.8f5e4440.js"
+    "static/css/main.64936c99.css",
+    "static/js/main.dfd0b2b4.js"
   ]
 }
