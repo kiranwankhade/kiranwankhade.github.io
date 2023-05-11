@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6e62fe7e.css",
-    "main.js": "/static/js/main.5a269240.js",
+    "main.js": "/static/js/main.56ad0b55.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/BeChef5.png": "/static/media/BeChef5.85a861d568f184531ebd.png",
     "static/media/TS3.png": "/static/media/TS3.9da7793e9f73a2edaffb.png",
@@ -18,13 +18,19 @@
     "static/media/TS4.png": "/static/media/TS4.21b01d6ed373e1ec2c3a.png",
     "static/media/TS7.png": "/static/media/TS7.bfdc4a24b11fbea2ada8.png",
     "static/media/VS6.png": "/static/media/VS6.a5517b7b7c13490172ba.png",
+    "static/media/Quiz6.png": "/static/media/Quiz6.2ed33240438ef71822fb.png",
+    "static/media/Quiz5.png": "/static/media/Quiz5.a571b8cdb1e764a07bf6.png",
     "static/media/VS8.png": "/static/media/VS8.bad9b8d8408b72cd290a.png",
     "static/media/R&F4.png": "/static/media/R&F4.0eef60f87615f4c86f92.png",
     "static/media/R&F1.png": "/static/media/R&F1.03b72ef743d5a52533ba.png",
     "static/media/VS2.png": "/static/media/VS2.5e2711cf6224783ea05b.png",
+    "static/media/Quiz4.png": "/static/media/Quiz4.28cf39db4206b8e75e73.png",
     "static/media/VS4.png": "/static/media/VS4.6abe2812a1e29604d100.png",
     "static/media/VS5.png": "/static/media/VS5.82e14cc8f3426c40ed72.png",
     "static/media/blushme2.png": "/static/media/blushme2.67cefb6a511cb45deb9e.png",
+    "static/media/Quiz3.png": "/static/media/Quiz3.6e8c6fc8e71129af74ff.png",
+    "static/media/Quiz1.png": "/static/media/Quiz1.5ca3a7513523a26e2839.png",
+    "static/media/Quiz2.png": "/static/media/Quiz2.3c47dd2a5a582e8a187d.png",
     "static/media/VS7.png": "/static/media/VS7.b84265dea428d30e40a5.png",
     "static/media/TS6.png": "/static/media/TS6.b31693605423629a052b.png",
     "static/media/TS1.png": "/static/media/TS1.4ec9a6e5d33ce45f24a6.png",
@@ -60,11 +66,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.6e62fe7e.css.map": "/static/css/main.6e62fe7e.css.map",
-    "main.5a269240.js.map": "/static/js/main.5a269240.js.map",
+    "main.56ad0b55.js.map": "/static/js/main.56ad0b55.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e62fe7e.css",
-    "static/js/main.5a269240.js"
+    "static/js/main.56ad0b55.js"
   ]
 }
