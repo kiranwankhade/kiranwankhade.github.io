@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9b9cd6b.css",
-    "main.js": "/static/js/main.32de1ac6.js",
+    "main.js": "/static/js/main.15bba337.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/BeChef5.png": "/static/media/BeChef5.85a861d568f184531ebd.png",
     "static/media/TS3.png": "/static/media/TS3.9da7793e9f73a2edaffb.png",
@@ -51,7 +51,6 @@
     "static/media/VS11.png": "/static/media/VS11.99b86573b5750bcd173e.png",
     "static/media/VS10.png": "/static/media/VS10.1e0fd34be4492eaa3e94.png",
     "static/media/msd7.png": "/static/media/msd7.131698950ab9ef93b6bd.png",
-    "static/media/Kiran_Wankhade_Resume.pdf": "/static/media/Kiran_Wankhade_Resume.d718de64c2f6cb20a77d.pdf",
     "static/media/msd14.png": "/static/media/msd14.a9ced9d903629ff19f6f.png",
     "static/media/VS9.png": "/static/media/VS9.3d0c16c95c96ad28de14.png",
     "static/media/TS2.png": "/static/media/TS2.4f9a318dfd03f0323734.png",
@@ -80,6 +79,7 @@
     "static/media/blushme5.png": "/static/media/blushme5.e86e2130cd41ecb38e8d.png",
     "static/media/BeChef11.png": "/static/media/BeChef11.3d500673cb683c31f380.png",
     "static/media/msd11.png": "/static/media/msd11.baf1ac04f364bc4e5c3d.png",
+    "static/media/Kiran_Wankhade_Resume.pdf": "/static/media/Kiran_Wankhade_Resume.dfd5587f73dfdf2ef140.pdf",
     "static/media/msd6.png": "/static/media/msd6.af1f3d0352907b62dd1c.png",
     "static/media/msd5.png": "/static/media/msd5.9af0c56b315f10956efe.png",
     "static/media/VS15.png": "/static/media/VS15.2e95275b3fcfe3c3575b.png",
@@ -95,11 +95,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.f9b9cd6b.css.map": "/static/css/main.f9b9cd6b.css.map",
-    "main.32de1ac6.js.map": "/static/js/main.32de1ac6.js.map",
+    "main.15bba337.js.map": "/static/js/main.15bba337.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9b9cd6b.css",
-    "static/js/main.32de1ac6.js"
+    "static/js/main.15bba337.js"
   ]
 }
